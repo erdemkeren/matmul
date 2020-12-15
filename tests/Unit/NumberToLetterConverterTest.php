@@ -7,7 +7,7 @@ use App\Services\NumberToStringConverters\NumberToLetterConverter;
 use App\Services\NumberToStringConverters\NumberToStringConverterContract;
 
 /**
- * @coversNothing
+ * @covers \App\Services\NumberToStringConverters\NumberToLetterConverter
  */
 class NumberToLetterConverterTest extends TestCase
 {

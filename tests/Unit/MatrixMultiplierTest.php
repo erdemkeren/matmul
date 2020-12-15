@@ -8,7 +8,7 @@ use PHPUnit\Framework\MockObject\MockObject;
 use App\Services\NumberToStringConverters\NumberToStringConverterContract;
 
 /**
- * @coversNothing
+ * @covers \App\Services\MatrixMultiplier
  */
 class MatrixMultiplierTest extends TestCase
 {

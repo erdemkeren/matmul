@@ -6,7 +6,7 @@ use App\Rules\Matrix;
 use PHPUnit\Framework\TestCase;
 
 /**
- * @coversNothing
+ * @covers \App\Rules\Matrix
  */
 class MatrixRuleTest extends TestCase
 {

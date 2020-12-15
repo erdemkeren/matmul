@@ -6,7 +6,7 @@ use PHPUnit\Framework\TestCase;
 use App\Rules\CanBeMultiplierOf;
 
 /**
- * @coversNothing
+ * @covers \App\Rules\CanBeMultiplierOf
  */
 class CanBeMultiplierOfRuleTest extends TestCase
 {
